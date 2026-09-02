@@ -130,13 +130,13 @@ The patient's blood pressure is 138/88 mmHg.
 synthetic_medical_report.pdf — Page 1
 ```
 
-## 🔐 API Key
+##  API Key
 
 The Gemini API key is not included in this repository.
 
 The API key should be supplied through an environment variable rather than hard-coded into the notebook.
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 * Streamlit-based user interface
 * Support for multiple medical reports
